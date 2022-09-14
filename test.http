@@ -1,0 +1,6 @@
+GET http://localhost:5000/customers/62f1ea2587dc230f1c05e2d1 HTTP/1.1
+####
+GET http://localhost:5000/customers
+
+#### Use at Boomerang extension
+POST http://localhost:5000/customers
